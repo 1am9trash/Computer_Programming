@@ -19,6 +19,10 @@
   - [2.1 上下文無關語言與曖昧文法](2.1.md)
   - [2.2 Chomsky Normal Form](2.2.md)
   - [2.3 下推自動機](2.3.md)
-  - [2.4 非上下文無關語言](2.4.md)
+  - [2.4 非上下文無關語言與Pumping Lemma](2.4.md)
+  - [2.5 Ogden's Lemma](2.5.md)
+  - [2.6 Inherently Ambiguous CFLs](2.6.md)
+  - [2.7 Substitution](2.7.md)
+  - [2.8 CYK Algorithm](2.8.md)
 
 
