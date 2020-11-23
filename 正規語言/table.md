@@ -25,4 +25,13 @@
   - [2.7 Substitution](2.7.md)
   - [2.8 CYK Algorithm](2.8.md)
 
+- Church-Turing Thesis
 
+  - [3.1 圖靈機](3.1.md)
+  - [3.2 變形圖靈機](3.2.md)
+  - [3.3 Algorithm](3.3.md)
+
+- 決定性問題
+
+  - [4.1 決定性問題](4.1.md)
+  - [4.2 停機問題](4.2.md)
