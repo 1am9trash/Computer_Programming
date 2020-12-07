@@ -12,7 +12,7 @@ using namespace std;
 #define all(x) x.begin(), x.end()
 
 // kosaraju求非單點的scc數，有像圖不一定聯通
-// 兩次dfs，一次求出逆後序，一次對反向圖求scc(
+// 兩次dfs，一次求出逆後序，一次對反向圖求scc
 
 int n, m, a, b, cnt, ans;
 bool vis[10001];
