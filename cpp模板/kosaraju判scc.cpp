@@ -32,7 +32,7 @@ void dfs(int cur) {
 void reDfs(int cur, int cnt) {
     scc[cur] = cnt;
     FOR(i, 0, reG[cur].size()) {
-        if (scc[reG[cur][i]]) {
+        if (!scc[reG[cur][i]]) {
             reDfs(reG[cur][i], cnt);
         }
     }
